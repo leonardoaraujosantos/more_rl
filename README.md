@@ -1,5 +1,5 @@
 # Reinforcement Learning Reference Code
-This repository should be used with the RL presentation.
+This repository should be used with the [RL presentation](https://docs.google.com/presentation/d/1khPpLKKeto917YZygUuaBtbrP1qyhHIwTWe0vqp4XPo/edit#slide=id.p).
 
 ### Samples in notebooks fashion
 * Policy/Value Iteration (Model based RL, with MDP)
