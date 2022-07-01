@@ -9,3 +9,8 @@ This repository should be used with the RL presentation.
 * Vanilla Actor Critic
 * PPO
 * Multi-armed-Bandidts
+
+### References
+* [Several Pytorch Examples](https://github.com/bentrevett/pytorch-rl)
+* [Baselines 3](https://github.com/DLR-RM/stable-baselines3)
+* [OpenAI custom Financial Game](https://github.com/leonardoaraujosantos/financial-independent-game)
